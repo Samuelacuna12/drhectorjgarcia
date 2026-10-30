@@ -1,0 +1,44 @@
+{
+  "concept_by": "Samuel Acuña",
+  "practice": "Dr. Héctor J. García",
+  "official_website": "https://www.drhectorjgarcia.com/",
+  "reviewed": "2026-10-29",
+  "images": [
+    {
+      "file": "assets/hero.webp",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/59a82b514c0dbfff44144575/1508425132912-BK60P2JNXVKHOLNZVGYP/hectorquirofano.jpg",
+      "source_page": "https://www.drhectorjgarcia.com/",
+      "role": "hero",
+      "original_caption": "CONOCE NUESTROS PROCEDIMIENTOS"
+    },
+    {
+      "file": "assets/portrait.webp",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/59a82b514c0dbfff44144575/1507669284153-ISUW3G2DPYNG479ZMJB9/Foto2-He%CC%81cor-Garci%CC%81a.png",
+      "source_page": "https://www.drhectorjgarcia.com/",
+      "role": "portrait",
+      "original_caption": "Foto2-Hécor-García.png"
+    },
+    {
+      "file": "assets/detail.webp",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/59a82b514c0dbfff44144575/1507669279332-DVBIJX2E537I2K6M263O/Foto3-He%CC%81cor-Garci%CC%81a.png",
+      "source_page": "https://www.drhectorjgarcia.com/",
+      "role": "detail",
+      "original_caption": "Foto3-Hécor-García.png"
+    },
+    {
+      "file": "assets/case1.webp",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/59a82b514c0dbfff44144575/1507669278997-BD8QMG2LG3MAVET4G1OG/Foto4-He%CC%81cor-Garci%CC%81a.png",
+      "source_page": "https://www.drhectorjgarcia.com/",
+      "role": "case1",
+      "original_caption": "Foto4-Hécor-García.png"
+    },
+    {
+      "file": "assets/case2.webp",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/59a82b514c0dbfff44144575/1592079414769-B4K6D181J6HVNSGDJ97J/implantecapilarmedellin222.jpg",
+      "source_page": "https://www.drhectorjgarcia.com/",
+      "role": "case2",
+      "original_caption": "implantecapilarmedellin222.jpg"
+    }
+  ],
+  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised."
+}
