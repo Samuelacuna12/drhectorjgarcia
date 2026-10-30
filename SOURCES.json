@@ -49,5 +49,11 @@
       "role": "clinical"
     }
   ],
-  "design_status": "Medical identity revision following user feedback"
+  "design_status": "Medical identity revision following user feedback",
+  "v4_editorial": {
+    "asset": "assets/editorial-v4.webp",
+    "created_with": "OpenAI built-in image_gen",
+    "role": "Identity-preserving portrait retouch from original photograph",
+    "date": "2026-10-30"
+  }
 }
