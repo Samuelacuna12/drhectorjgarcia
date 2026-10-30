@@ -2,7 +2,7 @@
   "concept_by": "Samuel Acuña",
   "practice": "Dr. Héctor J. García",
   "official_website": "https://www.drhectorjgarcia.com/",
-  "reviewed": "2026-10-29",
+  "reviewed": "2026-10-30",
   "images": [
     {
       "file": "assets/hero.webp",
@@ -40,5 +40,14 @@
       "original_caption": "implantecapilarmedellin222.jpg"
     }
   ],
-  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised."
+  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised.",
+  "medical_revision": [
+    {
+      "file": "assets/medical-clinical.webp",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/59a82b514c0dbfff44144575/1508425562650-6Y6W3CUFR6G4DEFYLYJD/hectorweb.jpg",
+      "source_page": "https://www.drhectorjgarcia.com/",
+      "role": "clinical"
+    }
+  ],
+  "design_status": "Medical identity revision following user feedback"
 }
